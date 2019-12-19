@@ -10,4 +10,7 @@ However, I feel that playing around will lead me nowhere and thus the need to cr
 
 - [ ] Create a simple producer and subscriber that can introduce the basic commands and terms of apache kafka
 - [ ] Create a real life producer and subscriber for nodejs
+- [ ] Create a write-up on how to debug apache kafka messages
 - [ ] Create an application that will emulate syncing (multiple nodejs application)
+- [ ] Write a test to compare MQTT with Apache KAFKA bases on performance
+- [ ] Stress test Apache KAFKA
